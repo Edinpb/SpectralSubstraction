@@ -1,1 +1,1 @@
-Clos network(VHDL)
+# SpectralSubstractionMethodForNoiseReduction
